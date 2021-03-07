@@ -132,12 +132,12 @@ The projects was made for my class [Artificial Intelligence 1](https://www.di.uo
 
 ---
 
-## Hobbys | Interests | Passions
+## Hobbies | Interests | Passions
 
 - Data Structures
 - Algorithms & Problem Solving
 - PC Building
-- Latest technologies & Inovations
+- Latest technologies & Innovations
 - Universe, Space and Physics
 - Android Development
 - Arduino
