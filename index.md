@@ -41,9 +41,7 @@
 > - Java
 
 > A bit of Expirience:
-> - HTML
-> - CSS
-> - Bash Scripting
+> - Bash
 > - Assembly
 
 ---
@@ -61,6 +59,8 @@
 
 ## Other Skills
 
+- HTML | CSS
+  - A bit of Expirience
 - SQL & NoSQL Databases
   - MySQL
     > Still Learning | Basic Knowledge
