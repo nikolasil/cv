@@ -112,7 +112,7 @@ The eshop belongs to [ALTEMCO AE](https://www.altemco.gr/).
 
 - **Maintenance of CNC** for the company [ALTEMCO AE](https://www.altemco.gr/).
 I made all the specifications and settings in CamDuct to increase the workflow, productivity and waste of material.
-I am responsible to repair every problem that appears with the machine or anything that comes with generating g-code from CamDuct or with the connectivity between the machine and Mach3.
+I am responsible to repair every problem that occurs related to the machine or the generating g-code from CamDuct or with the connectivity between the machine and Mach3.
   > - Type: Plasma Cutter
   > - Dimensions: 3000mm × 2500mm
   > - Program: Mach3
