@@ -31,12 +31,12 @@
 
 ## Languages
 
-My main language is **Greek**.
+My native language is **Greek**.
 
 Second Languages:
 - English (Lower)
 
-> I knew a little bit of German when i was young. I can make a brief conversation only.
+> I studied German when i was young. I can ONLY make a brief conversation.
 
 ---
 
@@ -51,7 +51,7 @@ Second Languages:
 > - Javascript
 > - Java
 
-> A bit of Expirience:
+> A bit of Experience:
 > - Bash
 > - Assembly
 
@@ -71,7 +71,7 @@ Second Languages:
 ## Other Skills
 
 - HTML & CSS
-  - A bit of Expirience
+  - A bit of Experience
 - SQL & NoSQL Databases
   - MySQL
     > Still Learning Basic Knowledge
