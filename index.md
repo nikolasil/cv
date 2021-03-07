@@ -59,11 +59,11 @@
 
 ## Other Skills
 
-- HTML | CSS
+- HTML & CSS
   - A bit of Expirience
 - SQL & NoSQL Databases
   - MySQL
-    > Still Learning | Basic Knowledge
+    > Still Learning Basic Knowledge
   - MongoDB
     > A bit of Expirience
 - CNC
