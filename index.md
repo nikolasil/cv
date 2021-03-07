@@ -102,7 +102,7 @@ The application was created for the company [ALTEMCO AE](https://www.altemco.gr/
 
 - **Maintenance of E-Shop.**
 I created the products [attributes, filters, prices, photos, descriptions].
-The eshop of the company [ALTEMCO AE](https://www.altemco.gr/).
+The eshop belongs to [ALTEMCO AE](https://www.altemco.gr/).
   > - Made with OpenCart
   > - [Eshop](https://www.eshop.altemco.gr/)
   > - Time Period: 2020 – Today
