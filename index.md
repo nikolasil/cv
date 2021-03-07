@@ -36,7 +36,7 @@ My native language is **Greek**.
 Second Languages:
 - English (Lower)
 
-> I studied German when I was young. I can **only** make a brief conversation.
+> I studied German when I was young. I can **only** do a brief conversation.
 
 ---
 
@@ -51,7 +51,7 @@ Second Languages:
 > - Javascript
 > - Java
 
-> A bit of Experience:
+> Little Experience:
 > - Bash
 > - Assembly
 
@@ -76,9 +76,9 @@ Second Languages:
   - MySQL
     > Still Learning Basic Knowledge
   - MongoDB
-    > A bit of Experience
+    > Little Experience
 - CNC
-  - Work expirience with 3-axis plasma cutter
+  - Work experience with 3-axis plasma cutter
   - Camduct
   - Mach3
 - Photoshop
