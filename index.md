@@ -11,7 +11,7 @@
   - [iliopoulos.info@gmail.com](mailto:iliopoulos.info@gmail.com)
 - Phone: +30 694 294 88 51
 - Birthday: 18.11.2000
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BrQO%2Fh%2Bc8S726HCmJub0diQ%3D%3D)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/nikolasiliopoulos)
 - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nikolasil)
 
 ---
