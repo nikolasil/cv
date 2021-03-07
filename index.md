@@ -36,7 +36,7 @@ My main language is **Greek**.
 Second Languages:
 - English
 
-> A bit of German when i was young. I can make a brief conversation only.
+> I knew a bit of German when i was young. I can make a brief conversation only.
 
 ---
 
