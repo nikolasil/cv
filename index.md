@@ -36,7 +36,7 @@ My native language is **Greek**.
 Second Languages:
 - English (Lower)
 
-> I studied German when I was young. I can ONLY make a brief conversation.
+> I studied German when I was young. I can **only** make a brief conversation.
 
 ---
 
