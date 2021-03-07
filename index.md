@@ -4,12 +4,12 @@
 
 ## General Information
 
-- Address: Nea Makri, Attica, Greece
+- Address: Nea Makri, 19005 Attica, Greece
 - Email:
   - [nikolasil2000@gmail.com](mailto:nikolasil2000@gmail.com)
   - [nikolasil@yahoo.gr](mailto:nikolasil@yahoo.gr)
   - [iliopoulos.info@gmail.com](mailto:iliopoulos.info@gmail.com)
-- Phone: 694 294 88 51
+- Phone: +30 694 294 88 51
 - Birthday: 18.11.2000
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BrQO%2Fh%2Bc8S726HCmJub0diQ%3D%3D)
 - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nikolasil)
@@ -18,7 +18,7 @@
 
 ## Studies
 
-- Student at [National and Kapodistrian University of Athens](https://www.di.uoa.gr/) (EKPA).
+- Student at [National and Kapodistrian University of Athens](https://www.di.uoa.gr/) (UOA).
   - Department of Informatics and Telecomunications
   - Time Period: 2018 - Today
 
@@ -34,7 +34,7 @@
 My main language is **Greek**.
 
 Second Languages:
-- English
+- English (Lower)
 
 > I knew a little bit of German when i was young. I can make a brief conversation only.
 
@@ -94,10 +94,10 @@ Second Languages:
 ## Work Εxperience
 
 - **Creation & maintenance of android application.**
-Is an innovative application that helps you find the air conditioner error code along with a helpfull tip to repear it.
-The application was created for the company [ALTEMCO AE](https://www.altemco.gr/).
+It Is an innovative application that enables the user to find the air conditioner error code and provides helpfull tips to repear it.
+The application was created for the needs of the company [ALTEMCO AE](https://www.altemco.gr/).
   > - Application Name: ALTEMCO HVAC
-  > - Made with MIT App Inventor, then changed to Kodular and there are plans to recreate it with Flutter
+  > - Made with MIT App Inventor, then changed to Kodular and future goal is to recreate it with Flutter
   > - [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_nikolasil2000.hvac2)
   > - Time Period: 2014 – Today
 
@@ -128,7 +128,7 @@ Daily services and maintainace of HVAC Systems.
 ## Projects
 
 - **Berkeley Pacman Artificial Inteligence Projects.**
-The projects was made for my class [Artificial Intelligence 1](https://www.di.uoa.gr/studies/undergraduate/118) in University.
+These projects were made during my studies in UOA University and especially for the course [Artificial Intelligence 1](https://www.di.uoa.gr/studies/undergraduate/118).
   >   Github Repositories:
   > - [Project 0](https://github.com/nikolasil/Berkeley-Pacman-Project-0)
   > - [Project 1](https://github.com/nikolasil/Berkeley-Pacman-Project-1)
@@ -139,7 +139,7 @@ The projects was made for my class [Artificial Intelligence 1](https://www.di.uo
 ## Volunteering
 
 - Various reforestations in Attica.
-- Voluntary work for the fire victims in Mati from the fire on 23.07.2018.
+- Voluntary work: Helping fire victims in Mati from the fire on 23.07.2018.
   > Time Period: July 2018 - September 2018
 
 ---
