@@ -84,7 +84,7 @@
 
 ## Work Εxperience
 
-- Creation and maintenance of android application.
+- **Creation and maintenance of android application.**
 Is an innovative application that helps you find the air conditioner error code along with a helpfull tip to repear it.
 The application was created for the company [ALTEMCO AE](https://www.altemco.gr/).
   > - Application Name: ALTEMCO HVAC
@@ -92,7 +92,7 @@ The application was created for the company [ALTEMCO AE](https://www.altemco.gr/
   > - [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_nikolasil2000.hvac2)
   > - Time Period: 2014 – Today
 
-- Maintenance of E-Shop.
+- **Maintenance of E-Shop.**
 I created the products [attributes, filters, prices, photos, descriptions].
 The eshop of the company [ALTEMCO AE](https://www.altemco.gr/).
   > - Made with OpenCart
@@ -101,7 +101,7 @@ The eshop of the company [ALTEMCO AE](https://www.altemco.gr/).
 
 ### Jobs outside my field
 
-- Maintenance of CNC for the company [ALTEMCO AE](https://www.altemco.gr/).
+- **Maintenance of CNC** for the company [ALTEMCO AE](https://www.altemco.gr/).
 I made all the specifications and settings in CamDuct to increase the workflow, productivity and waste of material.
 I am responsible to repair every problem that appears with the machine or anything that comes with generating g-code from CamDuct or with the connectivity between the machine and Mach3.
   > - Type: Plasma Cutter
@@ -110,7 +110,7 @@ I am responsible to repair every problem that appears with the machine or anythi
   > - G-Code Program: CamDuct
   > - Time Period: 2019 - Today
 
-- HVAC Service [ALTEMCO AE](https://www.altemco.gr/).
+- **HVAC Service** [ALTEMCO AE](https://www.altemco.gr/).
 Daily services and maintainace of HVAC Systems.
   > - Time Period: June 2019 – September 2019
 
@@ -118,7 +118,7 @@ Daily services and maintainace of HVAC Systems.
 
 ## Projects
 
-- Berkeley Pacman Artificial Inteligence Projects.
+- **Berkeley Pacman Artificial Inteligence Projects.**
 The projects was made for my class [Artificial Intelligence 1](https://www.di.uoa.gr/studies/undergraduate/118) in University.
   >   Github Repositories:
   > - [Project 0](https://github.com/nikolasil/Berkeley-Pacman-Project-0)
