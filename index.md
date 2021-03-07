@@ -4,7 +4,7 @@
 
 ## General Information
 
-- Address: Nea Makri, 19005 Attica, Greece
+- Address: Nea Makri, 19005, Attica, Greece
 - Email:
   - [nikolasil2000@gmail.com](mailto:nikolasil2000@gmail.com)
   - [nikolasil@yahoo.gr](mailto:nikolasil@yahoo.gr)
