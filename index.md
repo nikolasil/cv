@@ -1,4 +1,4 @@
-# Computer Scientist [Student]
+# Computer Scientist Student
 
 ---
 
@@ -28,6 +28,14 @@
   - Grade: 18.3/20
 
 ---
+
+## Languages
+
+My main language is **Greek**.
+
+Second Languages:
+- English
+> - A bit of German when i was young. I can make a brief conversation only.
 
 ## Programming Languages
 
@@ -81,7 +89,7 @@
 
 ## Work Εxperience
 
-- **Creation and maintenance of android application.**
+- **Creation & maintenance of android application.**
 Is an innovative application that helps you find the air conditioner error code along with a helpfull tip to repear it.
 The application was created for the company [ALTEMCO AE](https://www.altemco.gr/).
   > - Application Name: ALTEMCO HVAC
@@ -128,7 +136,7 @@ The projects was made for my class [Artificial Intelligence 1](https://www.di.uo
 
 - Various reforestations in Attica.
 - Voluntary work for the fire victims in Mati from the fire on 23.07.2018.
-  > - Time Period: July 2018 - September 2018
+  > Time Period: July 2018 - September 2018
 
 ---
 
@@ -138,7 +146,7 @@ The projects was made for my class [Artificial Intelligence 1](https://www.di.uo
 - Algorithms & Problem Solving
 - PC Building
 - Latest technologies & Innovations
-- Universe, Space and Physics
+- Universe, Space & Physics
 - Android Development
 - Arduino
 - Raspberry Pi
