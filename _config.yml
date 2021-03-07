@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Iliopoulos Nikolas
 github:
   is_project_page: false
+font-family: serif
