@@ -84,6 +84,7 @@ Second Languages:
 - Photoshop
 - Corel
 - Matlab
+- LaTeX
 - Version Control Git
 - Microsoft Office
   - VBA
