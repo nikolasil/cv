@@ -34,7 +34,7 @@
 My native language is **Greek**.
 
 Second Languages:
-- English (Lower)
+- English (B2 Lower Cambridge)
 
 > I studied German when I was young. I can **only** do a brief conversation.
 
