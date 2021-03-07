@@ -1,56 +1,110 @@
-# Ηλιόπουλος Νικόλαος | Iliopoulos Nikolaos
-## Computer Scientist [Student]
+# Iliopoulos Nikolaos
+## **Computer Scientist [Student]**
 
 ---
 
 ### Information
 
-- Address:		 	  Ποσειδώνος 42, Νέα Μάκρη, 19005, Ελλάδα
-- Email:			    nikolasil2000@gmail.com, iliopoulos.info@gmail.com, nikolasil@yahoo.gr
-- Phone:		 	    694 294 88 51
-- DateOfBirth:	  18.11.2000
+- Address: Ποσειδώνος 42, Νέα Μάκρη, 19005, Ελλάδα
+- Email:
+  - nikolasil2000@gmail.com
+  - nikolasil@yahoo.gr
+  - iliopoulos.info@gmail.com
+- Phone: 694 294 88 51
+- Birthday: 18.11.2000
 
 ---
 
 ### Studies
 
-- Τριτοβάθμια Εκπαίδευση  [2018-σήμερα]
-> Τμήμα Πληροφορικής και Τηλεπικοινωνιών, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών
+- Student at National and Kapodistrian University of Athens [2018 - Today]
+  - Department of Informatics and Telecomunications
 
--	Δευτεροβάθμια Εκπαίδευση [2013-2018]
->	1ο Γενικό Λύκειο, Νέα Μάκρη, Ελλάδα
+- Highschool Graduate [2013-2018]
+  - 1st Nea Makri General Highschool
+  - Grade: 18.3/20
 
-> Βαθμός Απολυτηρίου: 18,3/20
+---
 
-Programming Languages:
-o	C
-o	C++
-o	Python
-Ξένες Γλώσσες:
-o	Αγγλικά [Lower-Β2]
+### Computing Skills
 
+#### Programming Languages
 
+- C
+- C++
+- Python
 
-Εργασιακή Εμπειρία:
-o	Δημιουργία και Συντήρηση Android Application αναρτημένο στο Google Play (Όνομα app: ALTEMCO HVAC) [2015 – σήμερα]
-o	Συνεργείο κλιματιστικών μηχανημάτων, Altemco Α.Ε. [Ιούνιος 2019 – Σεπτέμβριος 2019]
-o	Κατασκευή και Συντήρηση μηχανήματος CNC 3-Axis (Τύπος: Πλάσμα – Διάσταση τραπεζιού: 3000mm × 2500mm ). Κατασκευή g-code με Camduct και χειρισμός με Mach3
+> Still Learning [Basic Knowledge]:
+> - Dart
+> - Javascript
+> - Java
 
-Εθελοντισμός:
-o	Διάφορες αναδασώσεις της Ανατολικής Αττικής
-o	Εθελοντική εργασία για τους πυρόπληκτους στο Μάτι από την πυρκαγιά στις 23.07.2018 [Ιούλιο 2018 – Σεπτέμβριο 2018] 
-Ενδιαφέροντα:
-o	Τένις
-o	Κατασκευή και αναπαλαίωση υπολογιστών
-o	Ταχύπλοα Jetski
-o	Ενημέρωση για τα τελευταία νέα της τεχνολογίας σε τομείς όπως επεξεργαστές, κάρτες γραφικών, κινητά κ.λ.π
-o	Κατασκευή Αpplication Android για προσωπική χρήση
-Σεμινάρια:
-o	“The Complete Android N Developer Course” από το site Udemy.com
-o	Παρακολούθηση διάφορων μαθημάτων και σεμιναρίων από το διαδίκτυο σε θέματα όπως Android Studio, Terminal, Data structures, Web development, Arduino, PC Parts
+> Little Κnowledge:
+> - HTML CSS
+> - Assembly
 
 
 
+#### Frameworks
 
+- Flutter
 
+> Still Learning [Basic Knowledge]:
+> - Node.js
+> - Angular.js
 
+---
+
+### Other Skills
+
+- Knowledge on CNC
+  - Work expirience with 3-axis plasma cutter
+  - Camduct
+  - Mach3
+- Photoshop
+  - A little bit more than the basics but not an expert
+- Microsoft Office
+  - VBA
+
+---
+
+#### Work Εxperience & Projects
+
+##### Computer Science Section | Programming
+
+- Creation and maintenance of android application.
+Is an innovative application that helps you find the air conditioner error code along with a helpfull tip to repear the error.
+The application was created for the company [ALTEMCO AE](https://www.altemco.gr/).
+  > - Application Name: ALTEMCO HVAC
+  > - Made with MIT App Inventor 
+  > - [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_nikolasil2000.hvac2)
+  > - Period: 2014 – Today
+
+##### In other sections
+
+- Maintenance of CNC for the company [ALTEMCO AE](https://www.altemco.gr/).
+  > - Type: Plasma Cutter
+  > - Dimensions: 3000mm × 2500mm
+  > - Program: Mach3
+  > - G-Code Program: Camduct
+  > - Period: 2019 - Today
+
+- HVAC Service [ALTEMCO AE](https://www.altemco.gr/).
+  > - Period: June 2019 – September 2019
+
+---
+
+### Volunteering
+
+- Various reforestations in Attica.
+- Voluntary work for the fire victims in Mati from the fire on 23.07.2018.
+  > - Period: July 2018 - September 2018
+
+---
+
+### Hobby & Interests
+
+- Tennis
+- PC Building
+- Latest technologies & Inovations
+- Android Development
