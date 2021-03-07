@@ -1,9 +1,8 @@
-# Iliopoulos Nikolaos
 ## **Computer Scientist [Student]**
 
 ---
 
-### Information
+### General Information
 
 - Address: Nea Makri, Attica, Greece
 - Email:
@@ -19,11 +18,11 @@
 
 - Student at National and Kapodistrian University of Athens (EKPA)
   - Department of Informatics and Telecomunications
-  - Period: 2018 - Today
+  - Time Period: 2018 - Today
 
 - Highschool Graduate
   - 1st Nea Makri General Highschool
-  - Period: 2013 - 2018
+  - Time Period: 2013 - 2018
   - Grade: 18.3/20
 
 ---
@@ -95,14 +94,14 @@ The application was created for the company [ALTEMCO AE](https://www.altemco.gr/
   > - Application Name: ALTEMCO HVAC
   > - Made with MIT App Inventor, then changed to Kodular and there are plans to recreate it with Flutter
   > - [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_nikolasil2000.hvac2)
-  > - Period: 2014 – Today
+  > - Time Period: 2014 – Today
 
 - Maintenance of E-Shop.
 I created the products [attributes, filters, prices, photos, descriptions].
 The eshop of the company [ALTEMCO AE](https://www.altemco.gr/).
   > - Made with OpenCart
   > - [Eshop](https://www.eshop.altemco.gr/)
-  > - Period: 2020 – Today
+  > - Time Period: 2020 – Today
 
 ##### In other sections
 
@@ -113,11 +112,11 @@ I am responsible to repair every problem that appears with the machine or anythi
   > - Dimensions: 3000mm × 2500mm
   > - Program: Mach3
   > - G-Code Program: CamDuct
-  > - Period: 2019 - Today
+  > - Time Period: 2019 - Today
 
 - HVAC Service [ALTEMCO AE](https://www.altemco.gr/).
 Daily services and maintainace of HVAC Systems.
-  > - Period: June 2019 – September 2019
+  > - Time Period: June 2019 – September 2019
 
 ---
 
@@ -125,7 +124,7 @@ Daily services and maintainace of HVAC Systems.
 
 - Various reforestations in Attica.
 - Voluntary work for the fire victims in Mati from the fire on 23.07.2018.
-  > - Period: July 2018 - September 2018
+  > - Time Period: July 2018 - September 2018
 
 ---
 
