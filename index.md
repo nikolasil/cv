@@ -76,7 +76,7 @@ Second Languages:
   - MySQL
     > Still Learning Basic Knowledge
   - MongoDB
-    > A bit of Expirience
+    > A bit of Experience
 - CNC
   - Work expirience with 3-axis plasma cutter
   - Camduct
@@ -94,7 +94,7 @@ Second Languages:
 ## Work Εxperience
 
 - **Creation & maintenance of android application.**
-It Is an innovative application that enables the user to find the air conditioner error code and provides helpfull tips to repear it.
+It is an innovative application that enables the user to find the air conditioner error code and provides helpfull tips to repear it.
 The application was created for the needs of the company [ALTEMCO AE](https://www.altemco.gr/).
   > - Application Name: ALTEMCO HVAC
   > - Made with MIT App Inventor, then changed to Kodular and future goal is to recreate it with Flutter
