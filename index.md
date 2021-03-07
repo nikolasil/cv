@@ -5,7 +5,7 @@
 
 ### Information
 
-- Address: Ποσειδώνος 42, Νέα Μάκρη, 19005, Ελλάδα
+- Address: Nea Makri, Attica, Greece
 - Email:
   - nikolasil2000@gmail.com
   - nikolasil@yahoo.gr
@@ -17,11 +17,13 @@
 
 ### Studies
 
-- Student at National and Kapodistrian University of Athens [2018 - Today]
+- Student at National and Kapodistrian University of Athens (EKPA)
   - Department of Informatics and Telecomunications
+  - Period: 2018 - Today
 
-- Highschool Graduate [2013-2018]
+- Highschool Graduate
   - 1st Nea Makri General Highschool
+  - Period: 2013 - 2018
   - Grade: 18.3/20
 
 ---
@@ -34,35 +36,50 @@
 - C++
 - Python
 
-> Still Learning [Basic Knowledge]:
+> Still Learning | Basic Knowledge:
 > - Dart
 > - Javascript
 > - Java
 
-> Little Κnowledge:
-> - HTML CSS
+> A bit of Expirience:
+> - HTML
+> - CSS
+> - Bash Scripting
 > - Assembly
 
+#### Databases
 
+##### SQL
+
+> A bit of Expirience:
+> - MySQL
+
+##### NoSQL
+
+> Still Learning | Basic Knowledge:
+> - MongoDB
 
 #### Frameworks
 
 - Flutter
 
-> Still Learning [Basic Knowledge]:
+> Still Learning | Basic Knowledge:
 > - Node.js
+>   - RestFul API
 > - Angular.js
 
 ---
 
 ### Other Skills
 
-- Knowledge on CNC
+- CNC
   - Work expirience with 3-axis plasma cutter
   - Camduct
   - Mach3
 - Photoshop
-  - A little bit more than the basics but not an expert
+- Corel
+- Matlab
+- Version Control Git
 - Microsoft Office
   - VBA
 
@@ -73,23 +90,33 @@
 ##### Computer Science Section | Programming
 
 - Creation and maintenance of android application.
-Is an innovative application that helps you find the air conditioner error code along with a helpfull tip to repear the error.
+Is an innovative application that helps you find the air conditioner error code along with a helpfull tip to repear it.
 The application was created for the company [ALTEMCO AE](https://www.altemco.gr/).
   > - Application Name: ALTEMCO HVAC
-  > - Made with MIT App Inventor 
+  > - Made with MIT App Inventor, then changed to Kodular and there are plans to recreate it with Flutter
   > - [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_nikolasil2000.hvac2)
   > - Period: 2014 – Today
+
+- Maintenance of E-Shop.
+I created the products [attributes, filters, prices, photos, descriptions].
+The eshop of the company [ALTEMCO AE](https://www.altemco.gr/).
+  > - Made with OpenCart
+  > - [Eshop](https://www.eshop.altemco.gr/)
+  > - Period: 2020 – Today
 
 ##### In other sections
 
 - Maintenance of CNC for the company [ALTEMCO AE](https://www.altemco.gr/).
+I made all the specifications and settings in CamDuct to increase the workflow, productivity and waste of material.
+I am responsible to repair every problem that appears with the machine or anything that comes with generating g-code from CamDuct or with the connectivity between the machine and Mach3.
   > - Type: Plasma Cutter
   > - Dimensions: 3000mm × 2500mm
   > - Program: Mach3
-  > - G-Code Program: Camduct
+  > - G-Code Program: CamDuct
   > - Period: 2019 - Today
 
 - HVAC Service [ALTEMCO AE](https://www.altemco.gr/).
+Daily services and maintainace of HVAC Systems.
   > - Period: June 2019 – September 2019
 
 ---
@@ -107,4 +134,7 @@ The application was created for the company [ALTEMCO AE](https://www.altemco.gr/
 - Tennis
 - PC Building
 - Latest technologies & Inovations
+- Universe, Space and Physics
 - Android Development
+- Arduino
+- RasberryPi
