@@ -65,8 +65,10 @@
 ## Other Skills
 
 - SQL & NoSQL Databases
-  - MySQL [Still Learning | Basic Knowledge]
-  - MongoDB [A bit of Expirience]
+  - MySQL
+    > Still Learning | Basic Knowledge
+  - MongoDB
+    > A bit of Expirience
 - CNC
   - Work expirience with 3-axis plasma cutter
   - Camduct
