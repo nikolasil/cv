@@ -1,8 +1,8 @@
-## **Computer Scientist [Student]**
+# **Computer Scientist [Student]**
 
 ---
 
-### General Information
+## General Information
 
 - Address: Nea Makri, Attica, Greece
 - Email:
@@ -14,7 +14,7 @@
 
 ---
 
-### Studies
+## Studies
 
 - Student at National and Kapodistrian University of Athens (EKPA)
   - Department of Informatics and Telecomunications
@@ -27,9 +27,9 @@
 
 ---
 
-### Computing Skills
+## Computing Skills
 
-#### Programming Languages
+### Programming Languages
 
 - C
 - C++
@@ -46,19 +46,19 @@
 > - Bash Scripting
 > - Assembly
 
-#### Databases
+### Databases
 
-##### SQL
+#### SQL
 
 > A bit of Expirience:
 > - MySQL
 
-##### NoSQL
+#### NoSQL
 
 > Still Learning | Basic Knowledge:
 > - MongoDB
 
-#### Frameworks
+### Frameworks
 
 - Flutter
 
@@ -69,7 +69,7 @@
 
 ---
 
-### Other Skills
+## Other Skills
 
 - CNC
   - Work expirience with 3-axis plasma cutter
@@ -84,9 +84,9 @@
 
 ---
 
-#### Work Εxperience & Projects
+## Work Εxperience & Projects
 
-##### Computer Science Section | Programming
+### Computer Science Section | Programming
 
 - Creation and maintenance of android application.
 Is an innovative application that helps you find the air conditioner error code along with a helpfull tip to repear it.
@@ -103,7 +103,7 @@ The eshop of the company [ALTEMCO AE](https://www.altemco.gr/).
   > - [Eshop](https://www.eshop.altemco.gr/)
   > - Time Period: 2020 – Today
 
-##### In other sections
+### In other sections
 
 - Maintenance of CNC for the company [ALTEMCO AE](https://www.altemco.gr/).
 I made all the specifications and settings in CamDuct to increase the workflow, productivity and waste of material.
@@ -120,7 +120,7 @@ Daily services and maintainace of HVAC Systems.
 
 ---
 
-### Volunteering
+## Volunteering
 
 - Various reforestations in Attica.
 - Voluntary work for the fire victims in Mati from the fire on 23.07.2018.
@@ -128,7 +128,7 @@ Daily services and maintainace of HVAC Systems.
 
 ---
 
-### Hobby & Interests
+## Hobby & Interests
 
 - Tennis
 - PC Building
