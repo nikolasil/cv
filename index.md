@@ -42,18 +42,18 @@ Second Languages:
 
 ## Programming Languages
 
-- <img src="assets/c.svg" alt="" data-canonical-src="assets/c.svg" width="18" height="18" />
-- <img src="assets/cpp.svg" alt="" data-canonical-src="assets/cpp.svg" width="18" height="18" />
-- <img src="assets/python.svg" alt="" data-canonical-src="assets/python.svg" width="18" height="18" /> Python
+- <img src="assets/c.svg" alt="" data-canonical-src="assets/c.svg" width="20" height="20" />
+- <img src="assets/cpp.svg" alt="" data-canonical-src="assets/cpp.svg" width="20" height="20" />
+- <img src="assets/python.svg" alt="" data-canonical-src="assets/python.svg" width="20" height="20" /> Python
 
 > Still Learning | Basic Knowledge:
-> - Dart
-> - Javascript
+> - <img src="assets/dart.svg" alt="" data-canonical-src="assets/dart.svg" width="20" height="20" /> Dart
+> - <img src="assets/javascript.svg" alt="" data-canonical-src="assets/javascript.svg" width="20" height="20" /> Javascript
 > - Java
 
 > Little Experience:
 > - Bash
-> - Assembly
+> - <img src="assets/assembly.svg" alt="" data-canonical-src="assets/assembly.svg" width="20" height="20" /> Assembly
 
 ---
 
@@ -151,7 +151,7 @@ These projects were made during my studies in UOA University and especially for 
 - PC Building
 - Latest technologies & Innovations
 - Universe, Space & Physics
-- Android Development
+- <img src="assets/android.svg" alt="" data-canonical-src="assets/android.svg" width="18" height="18" /> Android Development
 - <img src="assets/arduino-logo.png" alt="" data-canonical-src="assets/arduino-logo.png" width="18" height="18" /> Arduino
-- Raspberry Pi
-- Tennis
+- <img src="assets/Rasberrypi-logo.png" alt="" data-canonical-src="assets/Rasberrypi-logo.png" width="18" height="18" /> Raspberry Pi
+- <img src="assets/tennis-logo.png" alt="" data-canonical-src="assets/tennis-logo.png" width="18" height="18" /> Tennis
