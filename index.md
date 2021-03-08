@@ -12,7 +12,7 @@
 - Phone: +30 694 294 88 51
 - Birthday: 18.11.2000
 - <img src="assets/linkedin-logo.png" alt="" data-canonical-src="assets/linkedin-logo.png" width="18" height="18" /> [LinkedIn](https://www.linkedin.com/in/nikolasiliopoulos)
-- <img src="assets/gitgub-logo.png" alt="" data-canonical-src="assets/gitgub-logo.png" width="18" height="18" /> [GitHub](https://github.com/nikolasil)
+- <img src="assets/github-logo.png" alt="" data-canonical-src="assets/github-logo.png" width="18" height="18" /> [GitHub](https://github.com/nikolasil)
 
 ---
 
