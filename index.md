@@ -12,7 +12,7 @@
 - Phone: +30 694 294 88 51
 - Birthday: 18.11.2000
 - <img src="assets/linkedin-logo.png" alt="" data-canonical-src="assets/linkedin-logo.png" width="18" height="18" /> [LinkedIn](https://www.linkedin.com/in/nikolasiliopoulos)
-- <img src="assets/GitHub-logo.png" alt="" data-canonical-src="assets/GitHub-logo.png" width="18" height="18" /> [GitHub](https://github.com/nikolasil)
+- <img src="assets/gitgub-logo.png" alt="" data-canonical-src="assets/gitgub-logo.png" width="18" height="18" /> [GitHub](https://github.com/nikolasil)
 
 ---
 
@@ -34,7 +34,7 @@
 My native language is **Greek**.
 
 Second Languages:
-- English (B2 Lower Cambridge)
+- English (B2 Lower Michigan)
 
 > I studied German when I was young. I can **only** do a brief conversation.
 
@@ -42,50 +42,50 @@ Second Languages:
 
 ## Programming Languages
 
-- <img src="assets/c.svg" alt="" data-canonical-src="assets/c.svg" width="20" height="20" />
-- <img src="assets/cpp.svg" alt="" data-canonical-src="assets/cpp.svg" width="20" height="20" />
-- <img src="assets/python.svg" alt="" data-canonical-src="assets/python.svg" width="20" height="20" /> Python
+- <img src="assets/c-logo.png" alt="" data-canonical-src="assets/c-logo.png" width="20" height="20" /> C
+- <img src="assets/cpp-logo.png" alt="" data-canonical-src="assets/cpp-logo.png" width="20" height="20" /> C++
+- <img src="assets/python-logo.png" alt="" data-canonical-src="assets/python-logo.png" width="20" height="20" /> Python
 
 > Still Learning | Basic Knowledge:
-> - <img src="assets/dart.svg" alt="" data-canonical-src="assets/dart.svg" width="20" height="20" /> Dart
-> - <img src="assets/javascript.svg" alt="" data-canonical-src="assets/javascript.svg" width="20" height="20" /> Javascript
-> - Java
+> - <img src="assets/dart-logo.png" alt="" data-canonical-src="assets/dart-logo.png" width="20" height="20" /> Dart
+> - <img src="assets/javascript-logo.png" alt="" data-canonical-src="assets/javascript-logo.png" width="20" height="20" /> Javascript
+> - <img src="assets/java-logo.png" alt="" data-canonical-src="assets/java-logo.png" width="20" height="20" /> Java
 
 > Little Experience:
-> - Bash
-> - <img src="assets/assembly.svg" alt="" data-canonical-src="assets/assembly.svg" width="20" height="20" /> Assembly
+> - <img src="assets/bash-logo.png" alt="" data-canonical-src="assets/bash-logo.png" width="20" height="20" /> Bash
+> - <img src="assets/assembly-logo.png" alt="" data-canonical-src="assets/assembly-logo.png" width="20" height="20" /> Assembly
 
 ---
 
 ## Frameworks
 
-- Flutter
+- <img src="assets/flutter-logo.png" alt="" data-canonical-src="assets/flutter-logo.png" width="20" height="20" /> Flutter
 
 > Still Learning | Basic Knowledge:
-> - Node.js
+> - <img src="assets/nodejs-logo.png" alt="" data-canonical-src="assets/nodejs-logo.png" width="20" height="20" /> Node.js
 >   - RestFul API
-> - Angular.js
+> - <img src="assets/angularjs-logo.png" alt="" data-canonical-src="assets/angularjs-logo.png" width="20" height="20" /> Angular.js
 
 ---
 
 ## Other Skills
 
-- HTML & CSS
+- <img src="assets/html5-logo.png" alt="" data-canonical-src="assets/html5-logo.png" width="20" height="20" /> HTML & <img src="assets/css-logo.png" alt="" data-canonical-src="assets/css-logo.png" width="20" height="20" /> CSS
   - A bit of Experience
 - SQL & NoSQL Databases
-  - MySQL
+  - <img src="assets/mysql-logo.png" alt="" data-canonical-src="assets/mysql-logo.png" width="20" height="20" /> MySQL
     > Still Learning Basic Knowledge
-  - MongoDB
+  - <img src="assets/mongodb-logo.png" alt="" data-canonical-src="assets/mongodb-logo.png" width="20" height="20" /> MongoDB
     > Little Experience
 - CNC
   - Work experience with 3-axis plasma cutter
   - Camduct
   - Mach3
-- Photoshop
-- Corel
-- Matlab
-- LaTeX
-- Version Control Git
+- <img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> Photoshop
+- <img src="assets/corel-logo.png" alt="" data-canonical-src="assets/corel-logo.png" width="20" height="20" /> Corel
+- <img src="assets/matlab-logo.png" alt="" data-canonical-src="assets/matlab-logo.png" width="20" height="20" /> Matlab
+- <img src="assets/latex-logo.png" alt="" data-canonical-src="assets/latex-logo.png" width="20" height="20" />
+- <img src="assets/git-logo.png" alt="" data-canonical-src="assets/git-logo.png" width="20" height="20" /> Version Control Git
 - Microsoft Office
   - VBA
 
@@ -151,7 +151,7 @@ These projects were made during my studies in UOA University and especially for 
 - PC Building
 - Latest technologies & Innovations
 - Universe, Space & Physics
-- <img src="assets/android.svg" alt="" data-canonical-src="assets/android.svg" width="18" height="18" /> Android Development
+- <img src="assets/android-logo.png" alt="" data-canonical-src="assets/android-logo.png" width="18" height="18" /> Android Development
 - <img src="assets/arduino-logo.png" alt="" data-canonical-src="assets/arduino-logo.png" width="18" height="18" /> Arduino
-- <img src="assets/Rasberrypi-logo.png" alt="" data-canonical-src="assets/Rasberrypi-logo.png" width="18" height="18" /> Raspberry Pi
+- <img src="assets/rasberrypi-logo.png" alt="" data-canonical-src="assets/rasberrypi-logo.png" width="18" height="18" /> Raspberry Pi
 - <img src="assets/tennis-logo.png" alt="" data-canonical-src="assets/tennis-logo.png" width="18" height="18" /> Tennis
