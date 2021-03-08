@@ -42,7 +42,7 @@ Second Languages:
 
 ## Programming Languages
 
-- C
+- <img src="assets/c.svg" alt="" data-canonical-src="assets/c.svg" width="14" height="14" /> C
 - C++
 - Python
 
