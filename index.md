@@ -117,7 +117,7 @@ Second Languages:
 
 - **Creation & maintenance of android application.**
 It is an innovative application that enables the user to find the air conditioner error code and provides helpfull tips to repear it.
-The application was created for the needs of the company [ALTEMCO AE](https://www.altemco.gr/).
+The application was created for the needs of the company [ALTEMCO SA](https://www.altemco.gr/).
   > - Application Name: ALTEMCO HVAC
   > - Made with MIT App Inventor, then changed to Kodular and future goal is to recreate it with Flutter
   > - [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_nikolasil2000.hvac2)
@@ -125,14 +125,14 @@ The application was created for the needs of the company [ALTEMCO AE](https://ww
 
 - **Maintenance of E-Shop.**
 I created the products [attributes, filters, prices, photos, descriptions].
-The eshop belongs to [ALTEMCO AE](https://www.altemco.gr/).
+The eshop belongs to [ALTEMCO SA](https://www.altemco.gr/).
   > - Made with OpenCart
   > - [Eshop](https://www.eshop.altemco.gr/)
   > - Time Period: 2020 – Today
 
 ### Jobs outside my field
 
-- **Maintenance of CNC** for the company [ALTEMCO AE](https://www.altemco.gr/).
+- **Maintenance of CNC** for the company [ALTEMCO SA](https://www.altemco.gr/).
 I made all the specifications and settings in CamDuct to increase the workflow, productivity and waste of material.
 I am responsible to repair every problem that occurs related to the machine or the generating g-code from CamDuct or with the connectivity between the machine and Mach3.
   > - Type: Plasma Cutter
@@ -141,7 +141,7 @@ I am responsible to repair every problem that occurs related to the machine or t
   > - G-Code Program: CamDuct
   > - Time Period: 2019 - Today
 
-- **HVAC Service** [ALTEMCO AE](https://www.altemco.gr/).
+- **HVAC Service** [ALTEMCO SA](https://www.altemco.gr/).
 Daily services and maintainace of HVAC Systems.
   > - Time Period: June 2019 – September 2019
 
