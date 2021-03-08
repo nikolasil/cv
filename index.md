@@ -42,9 +42,9 @@ Second Languages:
 
 ## Programming Languages
 
-- <img src="assets/c.svg" alt="" data-canonical-src="assets/c.svg" width="14" height="14" /> C
-- C++
-- Python
+- C [<img src="assets/c-logo.png" alt="" data-canonical-src="assets/c-logo.png" width="14" height="14" />]
+- C++ []
+- Python []
 
 > Still Learning | Basic Knowledge:
 > - Dart
