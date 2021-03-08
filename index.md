@@ -11,8 +11,8 @@
   - [iliopoulos.info@gmail.com](mailto:iliopoulos.info@gmail.com)
 - Phone: +30 694 294 88 51
 - Birthday: 18.11.2000
-- <img src="assets/linkedin-logo.png" alt="" data-canonical-src="assets/linkedin-logo.png" width="18" height="18" /> [LinkedIn](https://www.linkedin.com/in/nikolasiliopoulos)
-- <img src="assets/github-logo.png" alt="" data-canonical-src="assets/github-logo.png" width="18" height="18" /> [GitHub](https://github.com/nikolasil)
+- <div class="container"><div class="vertical-center-icon"><img src="assets/linkedin-logo.png" alt="" data-canonical-src="assets/linkedin-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/nikolasiliopoulos">LinkedIn</a> </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/github-logo.png" alt="" data-canonical-src="assets/github-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/nikolasil">GitHub</a> </div></div>
 
 ---
 
@@ -39,53 +39,76 @@ Second Languages:
 > I studied German when I was young. I can **only** do a brief conversation.
 
 ---
+<style>
+.container { 
+  height: 20px;
+  position: relative;
+  /* border: 3px solid green;  */
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.vertical-center-icon {
+  margin: 0;
+  position: absolute;
+  top: 65%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+</style>
 
 ## Programming Languages
 
-- <img src="assets/c-logo.png" alt="" data-canonical-src="assets/c-logo.png" width="20" height="20" /> C
-- <img src="assets/cpp-logo.png" alt="" data-canonical-src="assets/cpp-logo.png" width="20" height="20" /> C++
-- <img src="assets/python-logo.png" alt="" data-canonical-src="assets/python-logo.png" width="20" height="20" /> Python
+- <div class="container"><div class="vertical-center-icon"><img src="assets/c-logo.png" alt="" data-canonical-src="assets/c-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/cpp-logo.png" alt="" data-canonical-src="assets/vpp-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/python-logo.png" alt="" data-canonical-src="assets/python-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python </div></div>
 
 > Still Learning | Basic Knowledge:
-> - <img src="assets/dart-logo.png" alt="" data-canonical-src="assets/dart-logo.png" width="20" height="20" /> Dart
-> - <img src="assets/javascript-logo.png" alt="" data-canonical-src="assets/javascript-logo.png" width="20" height="20" /> Javascript
-> - <img src="assets/java-logo.png" alt="" data-canonical-src="assets/java-logo.png" width="20" height="20" /> Java
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/dart-logo.png" alt="" data-canonical-src="assets/dart-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dart </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/javascript-logo.png" alt="" data-canonical-src="assets/javascript-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Javascript </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/java-logo.png" alt="" data-canonical-src="assets/java-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java </div></div>
 
 > Little Experience:
-> - <img src="assets/bash-logo.png" alt="" data-canonical-src="assets/bash-logo.png" width="20" height="20" /> Bash
-> - <img src="assets/assembly-logo.png" alt="" data-canonical-src="assets/assembly-logo.png" width="10" height="20" /> Assembly
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/bash-logo.png" alt="" data-canonical-src="assets/bash-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bash </div></div>
+> - <div class="container"><div class="vertical-center-icon">&nbsp;<img src="assets/assembly-logo.png" alt="" data-canonical-src="assets/assembly-logo.png" width="10" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assembly </div></div>
+
 
 ---
 
 ## Frameworks
 
-- <img src="assets/flutter-logo.png" alt="" data-canonical-src="assets/flutter-logo.png" width="20" height="20" /> Flutter
+- <div class="container"><div class="vertical-center-icon"><img src="assets/flutter-logo.png" alt="" data-canonical-src="assets/flutter-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flutter </div></div>
 
 > Still Learning | Basic Knowledge:
-> - <img src="assets/nodejs-logo.png" alt="" data-canonical-src="assets/nodejs-logo.png" width="20" height="20" /> Node.js
->   - RestFul API
-> - <img src="assets/angularjs-logo.png" alt="" data-canonical-src="assets/angularjs-logo.png" width="20" height="20" /> Angular.js
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/nodejs-logo.png" alt="" data-canonical-src="assets/nodejs-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.js [RestFul API] </div></div> 
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/angularjs-logo.png" alt="" data-canonical-src="assets/angularjs-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Angular.js </div></div>
 
 ---
 
 ## Other Skills
 
-- <img src="assets/html5-logo.png" alt="" data-canonical-src="assets/html5-logo.png" width="20" height="20" /> HTML & <img src="assets/css-logo.png" alt="" data-canonical-src="assets/css-logo.png" width="20" height="20" /> CSS
-  - Little Experience
+- <div class="container"><div class="vertical-center-icon"><img src="assets/html5-logo.png" alt="" data-canonical-src="assets/html5-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML & </div><div class="vertical-center-icon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/css-logo.png" alt="" data-canonical-src="assets/css-logo.png" width="20" height="20" /> </div> <div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS </div></div></div></div>
+> - Little Experience
 - SQL & NoSQL Databases
-  - <img src="assets/mysql-logo.png" alt="" data-canonical-src="assets/mysql-logo.png" width="20" height="20" /> MySQL
-    > Still Learning Basic Knowledge
-  - <img src="assets/mongodb-logo.png" alt="" data-canonical-src="assets/mongodb-logo.png" width="20" height="20" /> MongoDB
-    > Little Experience
+  - <div class="container"><div class="vertical-center-icon"><img src="assets/mysql-logo.png" alt="" data-canonical-src="assets/mysql-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL </div></div>
+  > Still Learning Basic Knowledge
+  - <div class="container"><div class="vertical-center-icon">&nbsp;<img src="assets/mongodb-logo.png" alt="" data-canonical-src="assets/mongodb-logo.png" width="10" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MongoDB </div></div>
+  > Little Experience
 - CNC
   - Work experience with 3-axis plasma cutter
-  - <img src="assets/camduct-logo.png" alt="" data-canonical-src="assets/camduct-logo.png" width="20" height="20" /> Camduct
-  - <img src="assets/mach3-logo.png" alt="" data-canonical-src="assets/mach3-logo.png" width="20" height="20" /> Mach3
-- <img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> Photoshop
-- <img src="assets/corel-logo.png" alt="" data-canonical-src="assets/corel-logo.png" width="20" height="20" /> Corel
-- <img src="assets/matlab-logo.png" alt="" data-canonical-src="assets/matlab-logo.png" width="20" height="20" /> Matlab
-- <img src="assets/latex-logo.png" alt="" data-canonical-src="assets/latex-logo.png" width="200" height="20" />
-- <img src="assets/git-logo.png" alt="" data-canonical-src="assets/git-logo.png" width="20" height="20" /> Version Control Git
+  - <div class="container"><div class="vertical-center-icon"><img src="assets/camduct-logo.png" alt="" data-canonical-src="assets/camduct-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CamDuct </div></div>
+  - <div class="container"><div class="vertical-center-icon"><img src="assets/mach3-logo.png" alt="" data-canonical-src="assets/mach3-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mach3 </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photoshop </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/corel-logo.png" alt="" data-canonical-src="assets/corel-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corel </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/matlab-logo.png" alt="" data-canonical-src="assets/matlab-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MatLab </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/latex-logo.png" alt="" data-canonical-src="assets/latex-logo.png" width="50" height="18" /> </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/git-logo.png" alt="" data-canonical-src="assets/git-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Version Control GIT </div></div>
 - Microsoft Office
   - VBA
 
@@ -151,7 +174,7 @@ These projects were made during my studies in UOA University and especially for 
 - PC Building
 - Latest technologies & Innovations
 - Universe, Space & Physics
-- <img src="assets/android-logo.png" alt="" data-canonical-src="assets/android-logo.png" width="18" height="18" /> Android Development
-- <img src="assets/arduino-logo.png" alt="" data-canonical-src="assets/arduino-logo.png" width="18" height="18" /> Arduino
-- <img src="assets/rasberrypi-logo.png" alt="" data-canonical-src="assets/rasberrypi-logo.png" width="18" height="18" /> Raspberry Pi
-- <img src="assets/tennis-logo.png" alt="" data-canonical-src="assets/tennis-logo.png" width="18" height="18" /> Tennis
+- <div class="container"><div class="vertical-center-icon"><img src="assets/android-logo.png" alt="" data-canonical-src="assets/android-logo.png" width="18" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Android Development </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/arduino-logo.png" alt="" data-canonical-src="assets/arduino-logo.png" width="18" height="18" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arduino </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/rasberrypi-logo.png" alt="" data-canonical-src="assets/rasberrypi-logo.png" width="18" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raspberry PI </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/tennis-logo.png" alt="" data-canonical-src="assets/tennis-logo.png" width="18" height="18" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tennis </div></div>
