@@ -11,8 +11,8 @@
   - [iliopoulos.info@gmail.com](mailto:iliopoulos.info@gmail.com)
 - Phone: +30 694 294 88 51
 - Birthday: 18.11.2000
-- [![Linkedin][<img src="assets/linkedin-logo.png" alt="" data-canonical-src="assets/linkedin-logo.png" width="18" height="18" />] LinkedIn](https://www.linkedin.com/in/nikolasiliopoulos)
-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nikolasil)
+- <img src="assets/linkedin-logo.png" alt="" data-canonical-src="assets/linkedin-logo.png" width="18" height="18" /> [LinkedIn](https://www.linkedin.com/in/nikolasiliopoulos)
+- <img src="assets/GitHub-logo.png" alt="" data-canonical-src="assets/GitHub-logo.png" width="18" height="18" /> [GitHub](https://github.com/nikolasil)
 
 ---
 
@@ -42,9 +42,9 @@ Second Languages:
 
 ## Programming Languages
 
-- C [<img src="assets/c.svg" alt="" data-canonical-src="assets/c.svg" width="18" height="18" />]
-- C++ [<img src="assets/cpp.svg" alt="" data-canonical-src="assets/cpp.svg" width="18" height="18" />]
-- Python [<img src="assets/python.svg" alt="" data-canonical-src="assets/python.svg" width="18" height="18" />]
+- <img src="assets/c.svg" alt="" data-canonical-src="assets/c.svg" width="18" height="18" />
+- <img src="assets/cpp.svg" alt="" data-canonical-src="assets/cpp.svg" width="18" height="18" />
+- <img src="assets/python.svg" alt="" data-canonical-src="assets/python.svg" width="18" height="18" /> Python
 
 > Still Learning | Basic Knowledge:
 > - Dart
@@ -152,6 +152,6 @@ These projects were made during my studies in UOA University and especially for 
 - Latest technologies & Innovations
 - Universe, Space & Physics
 - Android Development
-- <img src="assets/arduino-logo.png" alt="" data-canonical-src="assets/arduino-logo.png" width="14" height="14" /> Arduino
+- <img src="assets/arduino-logo.png" alt="" data-canonical-src="assets/arduino-logo.png" width="18" height="18" /> Arduino
 - Raspberry Pi
 - Tennis
