@@ -79,8 +79,8 @@ Second Languages:
     > Little Experience
 - CNC
   - Work experience with 3-axis plasma cutter
-  - Camduct
-  - Mach3
+  - <img src="assets/camduct-logo.png" alt="" data-canonical-src="assets/camduct-logo.png" width="20" height="20" /> Camduct
+  - <img src="assets/mach3-logo.png" alt="" data-canonical-src="assets/mach3-logo.png" width="20" height="20" /> Mach3
 - <img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> Photoshop
 - <img src="assets/corel-logo.png" alt="" data-canonical-src="assets/corel-logo.png" width="20" height="20" /> Corel
 - <img src="assets/matlab-logo.png" alt="" data-canonical-src="assets/matlab-logo.png" width="20" height="20" /> Matlab
