@@ -152,6 +152,6 @@ These projects were made during my studies in UOA University and especially for 
 - Latest technologies & Innovations
 - Universe, Space & Physics
 - Android Development
-- ![Arduino](assets/arduino-logo.png)
+- <img src="assets/arduino-logo.png" alt="" data-canonical-src="assets/arduino-logo.png" width="14" height="14" /> Arduino
 - Raspberry Pi
 - Tennis
