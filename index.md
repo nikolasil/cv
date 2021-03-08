@@ -71,7 +71,7 @@ Second Languages:
 ## Other Skills
 
 - <img src="assets/html5-logo.png" alt="" data-canonical-src="assets/html5-logo.png" width="20" height="20" /> HTML & <img src="assets/css-logo.png" alt="" data-canonical-src="assets/css-logo.png" width="20" height="20" /> CSS
-  - A bit of Experience
+  - Little Experience
 - SQL & NoSQL Databases
   - <img src="assets/mysql-logo.png" alt="" data-canonical-src="assets/mysql-logo.png" width="20" height="20" /> MySQL
     > Still Learning Basic Knowledge
@@ -84,7 +84,7 @@ Second Languages:
 - <img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> Photoshop
 - <img src="assets/corel-logo.png" alt="" data-canonical-src="assets/corel-logo.png" width="20" height="20" /> Corel
 - <img src="assets/matlab-logo.png" alt="" data-canonical-src="assets/matlab-logo.png" width="20" height="20" /> Matlab
-- <img src="assets/latex-logo.png" alt="" data-canonical-src="assets/latex-logo.png" width="20" height="20" />
+- <img src="assets/latex-logo.png" alt="" data-canonical-src="assets/latex-logo.png" width="100" height="20" />
 - <img src="assets/git-logo.png" alt="" data-canonical-src="assets/git-logo.png" width="20" height="20" /> Version Control Git
 - Microsoft Office
   - VBA
