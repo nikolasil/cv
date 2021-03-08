@@ -11,7 +11,7 @@
   - [iliopoulos.info@gmail.com](mailto:iliopoulos.info@gmail.com)
 - Phone: +30 694 294 88 51
 - Birthday: 18.11.2000
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nikolasiliopoulos)
+- [![Linkedin][<img src="assets/linkedin-logo.png" alt="" data-canonical-src="assets/linkedin-logo.png" width="18" height="18" />] LinkedIn](https://www.linkedin.com/in/nikolasiliopoulos)
 - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nikolasil)
 
 ---
@@ -42,9 +42,9 @@ Second Languages:
 
 ## Programming Languages
 
-- C [<img src="assets/c-logo.png" alt="" data-canonical-src="assets/c-logo.png" width="14" height="14" />]
-- C++ []
-- Python []
+- C [<img src="assets/c.svg" alt="" data-canonical-src="assets/c.svg" width="18" height="18" />]
+- C++ [<img src="assets/cpp.svg" alt="" data-canonical-src="assets/cpp.svg" width="18" height="18" />]
+- Python [<img src="assets/python.svg" alt="" data-canonical-src="assets/python.svg" width="18" height="18" />]
 
 > Still Learning | Basic Knowledge:
 > - Dart
