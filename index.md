@@ -130,7 +130,7 @@ The eshop belongs to [ALTEMCO SA](https://www.altemco.gr/).
 
 ### Jobs outside my field
 
-- **Maintenance of CNC** for the company [ALTEMCO SA](target="_blank" https://www.altemco.gr/).
+- **Maintenance of CNC** for the company [ALTEMCO SA](https://www.altemco.gr/).
 Specifications and settings in CamDuct to increase the workflow, productivity and material waste.
 I am responsible to repair every problem that occurs related to CNC or generating g-code from CamDuct and the connectivity between the machine and Mach3
   > - Type: Plasma Cutter
