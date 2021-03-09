@@ -136,7 +136,7 @@ I am responsible to repair every problem that occurs related to CNC or generatin
   > - Type: Plasma Cutter
   > - Dimensions: 3000mm × 2500mm
   > - Program: Mach3
-  > - G-Code Program: CamDuct
+  > - G-Code Program: Fabrication CamDuct
   > - Time Period: 2019 - Today
 
 - **HVAC Service** [ALTEMCO SA](https://www.altemco.gr/).
