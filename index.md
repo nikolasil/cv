@@ -23,7 +23,7 @@
   - Time Period: 2018 - Today
 
 - Highschool Graduate
-  - 1st Nea Makri General Highschool
+  - 1st General Highschool of Nea Makri
   - Time Period: 2013 - 2018
   - Grade: 18.3/20
 
@@ -36,7 +36,7 @@ My native language is **Greek**.
 Second Languages:
 - English (B2 Lower Michigan)
 
-> I studied German when I was young. I can **only** do a brief conversation.
+> I studied German when I was young. I can only do a brief conversation.
 
 ---
 <style>
@@ -93,6 +93,7 @@ Second Languages:
 
 ## Other Skills
 
+- <div class="container"><div class="vertical-center-icon"><img src="assets/androidstudio-logo.png" alt="" data-canonical-src="assets/androidstudio-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Android Studio </div></div>
 - <div class="container"><div class="vertical-center-icon"><img src="assets/git-logo.png" alt="" data-canonical-src="assets/git-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Version Control GIT </div></div>
 - <div class="container"><div class="vertical-center-icon"><img src="assets/latex-logo.png" alt="" data-canonical-src="assets/latex-logo.png" width="50" height="18" /> </div></div>
 - Microsoft Office
@@ -100,24 +101,24 @@ Second Languages:
 
 > Still Learning | Basic Knowledge:
 > - <div class="container"><div class="vertical-center-icon"><img src="assets/html5-logo.png" alt="" data-canonical-src="assets/html5-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML & </div><div class="vertical-center-icon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/css-logo.png" alt="" data-canonical-src="assets/css-logo.png" width="20" height="20" /> </div> <div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photoshop </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adobe Photoshop </div></div>
 > - <div class="container"><div class="vertical-center-icon"><img src="assets/mysql-logo.png" alt="" data-canonical-src="assets/mysql-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL </div></div>
 > - CNC
->   - Work experience with 3-axis plasma cutter
->   - <div class="container"><div class="vertical-center-icon"><img src="assets/camduct-logo.png" alt="" data-canonical-src="assets/camduct-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CamDuct </div></div>
+>   - Experience with 3-Axis Plasma Cutter
+>   - <div class="container"><div class="vertical-center-icon"><img src="assets/camduct-logo.png" alt="" data-canonical-src="assets/camduct-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Autodesk Fabrication CamDuct </div></div>
 >   - <div class="container"><div class="vertical-center-icon"><img src="assets/mach3-logo.png" alt="" data-canonical-src="assets/mach3-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mach3 </div></div>
 > - <div class="container"><div class="vertical-center-icon"><img src="assets/matlab-logo.png" alt="" data-canonical-src="assets/matlab-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MatLab </div></div>
 
 > Little Experience:
 > - <div class="container"><div class="vertical-center-icon">&nbsp;<img src="assets/mongodb-logo.png" alt="" data-canonical-src="assets/mongodb-logo.png" width="10" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MongoDB </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/corel-logo.png" alt="" data-canonical-src="assets/corel-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corel </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/corel-logo.png" alt="" data-canonical-src="assets/corel-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CorelDRAW </div></div>
 
 ---
 
 ## Work Εxperience
 
 - **Creation & maintenance of android application.**
-It is an innovative application that enables the user to find the air conditioner error code and provides helpfull tips to repear it.
+It is an innovative application that enables the user to find the air conditioner error code and provides helpful tips to repeat it.
 The application was created for the needs of the company [ALTEMCO SA](https://www.altemco.gr/).
   > - Application Name: ALTEMCO HVAC
   > - Made with MIT App Inventor, then changed to Kodular and future goal is to recreate it with Flutter
@@ -125,7 +126,6 @@ The application was created for the needs of the company [ALTEMCO SA](https://ww
   > - Time Period: 2014 – Today
 
 - **Maintenance of E-Shop.**
-I created the products [attributes, filters, prices, photos, descriptions].
 The eshop belongs to [ALTEMCO SA](https://www.altemco.gr/).
   > - Made with OpenCart
   > - [Eshop](https://www.eshop.altemco.gr/)
@@ -134,8 +134,8 @@ The eshop belongs to [ALTEMCO SA](https://www.altemco.gr/).
 ### Jobs outside my field
 
 - **Maintenance of CNC** for the company [ALTEMCO SA](https://www.altemco.gr/).
-I made all the specifications and settings in CamDuct to increase the workflow, productivity and waste of material.
-I am responsible to repair every problem that occurs related to the machine or the generating g-code from CamDuct or with the connectivity between the machine and Mach3.
+Specifications and settings in CamDuct to increase the workflow, productivity and material waste.
+I am responsible to repair every problem that occurs related to CNC or generating g-code from CamDuct and the connectivity between the machine and Mach3
   > - Type: Plasma Cutter
   > - Dimensions: 3000mm × 2500mm
   > - Program: Mach3
@@ -143,14 +143,14 @@ I am responsible to repair every problem that occurs related to the machine or t
   > - Time Period: 2019 - Today
 
 - **HVAC Service** [ALTEMCO SA](https://www.altemco.gr/).
-Daily services and maintainace of HVAC Systems.
+Daily services and maintenance of HVAC Systems.
   > - Time Period: June 2019 – September 2019
 
 ---
 
 ## Projects
 
-- **Berkeley Pacman Artificial Inteligence Projects.**
+- **Berkeley Pacman Artificial Intelligence Projects.**
 These projects were made during my studies in UOA University and especially for the course [Artificial Intelligence 1](https://www.di.uoa.gr/studies/undergraduate/118).
   >   Github Repositories:
   > - [Project 0](https://github.com/nikolasil/Berkeley-Pacman-Project-0)
