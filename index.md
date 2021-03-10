@@ -90,13 +90,13 @@ Second Languages:
 
 ## Other Skills
 
-- <div class="container"><div class="vertical-center-icon"><img src="assets/androidstudio-logo.png" alt="" data-canonical-src="assets/androidstudio-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Android Studio </div></div>
 - <div class="container"><div class="vertical-center-icon"><img src="assets/git-logo.png" alt="" data-canonical-src="assets/git-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Version Control GIT </div></div>
 - <div class="container"><div class="vertical-center-icon"><img src="assets/latex-logo.png" alt="" data-canonical-src="assets/latex-logo.png" width="50" height="18" /> </div></div>
 - Microsoft Office
   - VBA
 
 > Still Learning | Basic Knowledge:
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/androidstudio-logo.png" alt="" data-canonical-src="assets/androidstudio-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Android Studio </div></div>
 > - <div class="container"><div class="vertical-center-icon"><img src="assets/html5-logo.png" alt="" data-canonical-src="assets/html5-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML & </div><div class="vertical-center-icon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/css-logo.png" alt="" data-canonical-src="assets/css-logo.png" width="20" height="20" /> </div> <div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS </div></div>
 > - <div class="container"><div class="vertical-center-icon"><img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adobe Photoshop </div></div>
 > - <div class="container"><div class="vertical-center-icon"><img src="assets/mysql-logo.png" alt="" data-canonical-src="assets/mysql-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL </div></div>
