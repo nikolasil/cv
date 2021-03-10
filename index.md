@@ -115,11 +115,14 @@ Second Languages:
 ## Work Εxperience
 
 - **Creation & maintenance of android application.**
-It is an innovative application that enables the user to find the air conditioner error code and provides helpful tips to repeat it.
+It is an innovative application that enables the user to find the air conditioner error code and provides helpful tips to repear it.
 The application was created for the needs of the company [ALTEMCO SA](https://www.altemco.gr/).
   > - Application Name: ALTEMCO HVAC
   > - Made with MIT App Inventor, then changed to Kodular and future goal is to recreate it with Flutter
   > - [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_nikolasil2000.hvac2)
+  > - Rating: 4.6
+  > - Total Installs: 5.000
+  > - Monthly Active Users: 2.500
   > - Time Period: 2014 – Today
 
 - **Maintenance of E-Shop.**
