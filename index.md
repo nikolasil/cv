@@ -102,7 +102,7 @@ Second Languages:
 > - <div class="container"><div class="vertical-center-icon"><img src="assets/mysql-logo.png" alt="" data-canonical-src="assets/mysql-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL </div></div>
 > - CNC
 >   - Experience with 3-Axis Plasma Cutter
->   - <div class="container"><div class="vertical-center-icon"><img src="assets/camduct-logo.png" alt="" data-canonical-src="assets/camduct-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fabrication CamDuct </div></div>
+>   - <div class="container"><div class="vertical-center-icon"><img src="assets/camduct-logo.png" alt="" data-canonical-src="assets/camduct-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CamDuct </div></div>
 >   - <div class="container"><div class="vertical-center-icon"><img src="assets/mach3-logo.png" alt="" data-canonical-src="assets/mach3-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mach3 </div></div>
 > - <div class="container"><div class="vertical-center-icon"><img src="assets/matlab-logo.png" alt="" data-canonical-src="assets/matlab-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MatLab </div></div>
 
