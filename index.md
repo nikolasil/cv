@@ -62,7 +62,7 @@ Second Languages:
 
 ## Programming Languages
 
-- <div unselectable="on" class="container"><div class="vertical-center-icon"><img src="assets/c-logo.png" alt="" data-canonical-src="assets/c-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C </div></div>
+- <div unselectable="on" class="container"><div class="vertical-center-icon"><img src="assets/c-logo.png" alt="" data-canonical-src="assets/c-logo.png" width="20" height="20" /> </div><div unselectable="on" class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C </div></div>
 - <div class="container"><div class="vertical-center-icon"><img src="assets/cpp-logo.png" alt="" data-canonical-src="assets/vpp-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ </div></div>
 - <div class="container"><div class="vertical-center-icon"><img src="assets/python-logo.png" alt="" data-canonical-src="assets/python-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python </div></div>
 
