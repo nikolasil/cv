@@ -55,6 +55,7 @@ Second Languages:
 .vertical-center-icon {
   margin: 0;
   position: absolute;
+  display: inline-block;
   top: 65%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
