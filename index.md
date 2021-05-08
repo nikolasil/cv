@@ -46,7 +46,7 @@ Second Languages:
 .vertical-center {
   margin: 0;
   position: absolute;
-  padding: 10px;
+  padding: 30px;
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
