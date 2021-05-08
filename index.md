@@ -64,17 +64,17 @@ Second Languages:
 ## Programming Languages
 
 - <div class="container"><div class="vertical-center-icon"><img src="assets/c-logo.png" alt="" data-canonical-src="assets/c-logo.png" width="20" height="20" /> </div><div class="vertical-center"> C </div></div>
-- <div class="container"><div class="vertical-center-icon"><img src="assets/cpp-logo.png" alt="" data-canonical-src="assets/vpp-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ </div></div>
-- <div class="container"><div class="vertical-center-icon"><img src="assets/python-logo.png" alt="" data-canonical-src="assets/python-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/cpp-logo.png" alt="" data-canonical-src="assets/vpp-logo.png" width="20" height="20" /> </div><div class="vertical-center"> C++ </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/python-logo.png" alt="" data-canonical-src="assets/python-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Python </div></div>
 
 > Still Learning | Basic Knowledge:
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/dart-logo.png" alt="" data-canonical-src="assets/dart-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dart </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/javascript-logo.png" alt="" data-canonical-src="assets/javascript-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Javascript </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/java-logo.png" alt="" data-canonical-src="assets/java-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/dart-logo.png" alt="" data-canonical-src="assets/dart-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Dart </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/javascript-logo.png" alt="" data-canonical-src="assets/javascript-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Javascript </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/java-logo.png" alt="" data-canonical-src="assets/java-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Java </div></div>
 
 > Little Experience:
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/bash-logo.png" alt="" data-canonical-src="assets/bash-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bash </div></div>
-> - <div class="container"><div class="vertical-center-icon">&nbsp;<img src="assets/assembly-logo.png" alt="" data-canonical-src="assets/assembly-logo.png" width="10" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assembly </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/bash-logo.png" alt="" data-canonical-src="assets/bash-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Bash </div></div>
+> - <div class="container"><div class="vertical-center-icon">&nbsp;<img src="assets/assembly-logo.png" alt="" data-canonical-src="assets/assembly-logo.png" width="10" height="20" /> </div><div class="vertical-center"> Assembly </div></div>
 
 
 ---
@@ -83,33 +83,33 @@ Second Languages:
 
 
 > Still Learning | Basic Knowledge:
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/flutter-logo.png" alt="" data-canonical-src="assets/flutter-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flutter </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/nodejs-logo.png" alt="" data-canonical-src="assets/nodejs-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.js</div></div> 
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/angularjs-logo.png" alt="" data-canonical-src="assets/angularjs-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Angular.js </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/flutter-logo.png" alt="" data-canonical-src="assets/flutter-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Flutter </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/nodejs-logo.png" alt="" data-canonical-src="assets/nodejs-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Node.js</div></div> 
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/angularjs-logo.png" alt="" data-canonical-src="assets/angularjs-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Angular.js </div></div>
 
 ---
 
 ## Other Skills
 
-- <div class="container"><div class="vertical-center-icon"><img src="assets/git-logo.png" alt="" data-canonical-src="assets/git-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Version Control GIT </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/git-logo.png" alt="" data-canonical-src="assets/git-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Version Control GIT </div></div>
 - <div class="container"><div class="vertical-center-icon"><img src="assets/latex-logo.png" alt="" data-canonical-src="assets/latex-logo.png" width="50" height="18" /> </div></div>
 - Microsoft Office
   - VBA
 
 > Still Learning | Basic Knowledge:
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/androidstudio-logo.png" alt="" data-canonical-src="assets/androidstudio-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Android Studio </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/html5-logo.png" alt="" data-canonical-src="assets/html5-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML & </div><div class="vertical-center-icon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/css-logo.png" alt="" data-canonical-src="assets/css-logo.png" width="20" height="20" /> </div> <div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adobe Photoshop </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/mysql-logo.png" alt="" data-canonical-src="assets/mysql-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/androidstudio-logo.png" alt="" data-canonical-src="assets/androidstudio-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Android Studio </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/html5-logo.png" alt="" data-canonical-src="assets/html5-logo.png" width="20" height="20" /> </div><div class="vertical-center"> HTML & </div><div class="vertical-center-icon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/css-logo.png" alt="" data-canonical-src="assets/css-logo.png" width="20" height="20" /> </div> <div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Adobe Photoshop </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/mysql-logo.png" alt="" data-canonical-src="assets/mysql-logo.png" width="20" height="20" /> </div><div class="vertical-center">  MySQL </div></div>
 > - CNC
 >   - Experience with 3-Axis Plasma Cutter
->   - <div class="container"><div class="vertical-center-icon"><img src="assets/camduct-logo.png" alt="" data-canonical-src="assets/camduct-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CamDuct </div></div>
->   - <div class="container"><div class="vertical-center-icon"><img src="assets/mach3-logo.png" alt="" data-canonical-src="assets/mach3-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mach3 </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/matlab-logo.png" alt="" data-canonical-src="assets/matlab-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MatLab </div></div>
+>   - <div class="container"><div class="vertical-center-icon"><img src="assets/camduct-logo.png" alt="" data-canonical-src="assets/camduct-logo.png" width="20" height="20" /> </div><div class="vertical-center"> CamDuct </div></div>
+>   - <div class="container"><div class="vertical-center-icon"><img src="assets/mach3-logo.png" alt="" data-canonical-src="assets/mach3-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Mach3 </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/matlab-logo.png" alt="" data-canonical-src="assets/matlab-logo.png" width="20" height="20" /> </div><div class="vertical-center"> MatLab </div></div>
 
 > Little Experience:
-> - <div class="container"><div class="vertical-center-icon">&nbsp;<img src="assets/mongodb-logo.png" alt="" data-canonical-src="assets/mongodb-logo.png" width="10" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MongoDB </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/corel-logo.png" alt="" data-canonical-src="assets/corel-logo.png" width="20" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CorelDRAW </div></div>
+> - <div class="container"><div class="vertical-center-icon">&nbsp;<img src="assets/mongodb-logo.png" alt="" data-canonical-src="assets/mongodb-logo.png" width="10" height="20" /> </div><div class="vertical-center"> MongoDB </div></div>
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/corel-logo.png" alt="" data-canonical-src="assets/corel-logo.png" width="20" height="20" /> </div><div class="vertical-center"> CorelDRAW </div></div>
 
 ---
 
@@ -171,12 +171,12 @@ These projects were made during my studies in UOA University and especially for 
 
 ## Hobbies | Interests | Passions
 
-- <div class="container"><div class="vertical-center-icon"><img src="assets/tennis-logo.png" alt="" data-canonical-src="assets/tennis-logo.png" width="18" height="18" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tennis </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/tennis-logo.png" alt="" data-canonical-src="assets/tennis-logo.png" width="18" height="18" /> </div><div class="vertical-center"> Tennis </div></div>
 - Data Structures
 - Algorithms & Problem Solving
-- <div class="container"><div class="vertical-center-icon"><img src="assets/android-logo.png" alt="" data-canonical-src="assets/android-logo.png" width="18" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Android Development </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/android-logo.png" alt="" data-canonical-src="assets/android-logo.png" width="18" height="20" /> </div><div class="vertical-center"> Android Development </div></div>
 - PC Building
 - Latest technologies & Innovations
 - Universe, Space & Physics
-- <div class="container"><div class="vertical-center-icon"><img src="assets/arduino-logo.png" alt="" data-canonical-src="assets/arduino-logo.png" width="18" height="18" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arduino </div></div>
-- <div class="container"><div class="vertical-center-icon"><img src="assets/rasberrypi-logo.png" alt="" data-canonical-src="assets/rasberrypi-logo.png" width="18" height="20" /> </div><div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raspberry Pi </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/arduino-logo.png" alt="" data-canonical-src="assets/arduino-logo.png" width="18" height="18" /> </div><div class="vertical-center"> Arduino </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/rasberrypi-logo.png" alt="" data-canonical-src="assets/rasberrypi-logo.png" width="18" height="20" /> </div><div class="vertical-center"> Raspberry Pi </div></div>
