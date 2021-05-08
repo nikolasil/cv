@@ -40,13 +40,13 @@ Second Languages:
 .container { 
   height: 20px;
   position: relative;
-  padding: 10px;
   /* border: 3px solid green;  */
 }
 
 .vertical-center {
   margin: 0;
   position: absolute;
+  padding: 10px;
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
