@@ -21,7 +21,7 @@
 
 - Highschool Graduate
   - 1st General Highschool of Nea Makri
-  - Time Period: 2013 - 2018
+  - Time Period: 2015 - 2018
   - Grade: 18.3/20
 
 ---
@@ -85,8 +85,7 @@ Second Languages:
 
 > Still Learning | Basic Knowledge:
 > - <div class="container"><div class="vertical-center-icon"><img src="assets/flutter-logo.png" alt="" data-canonical-src="assets/flutter-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Flutter </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/nodejs-logo.png" alt="" data-canonical-src="assets/nodejs-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Node.js</div></div> 
-<!-- > - <div class="container"><div class="vertical-center-icon"><img src="assets/angularjs-logo.png" alt="" data-canonical-src="assets/angularjs-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Angular.js </div></div> -->
+> - <div class="container"><div class="vertical-center-icon"><img src="assets/nodejs-logo.png" alt="" data-canonical-src="assets/nodejs-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Node.js</div></div>
 
 ---
 
