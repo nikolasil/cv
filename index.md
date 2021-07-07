@@ -11,10 +11,11 @@
 - Phone: +30 694 294 88 51
 
 - Birthday: 18.11.2000
+- 
+## Social Media
 
-- <div class="container"><div class="vertical-center-icon"><img src="assets/github-logo.png" alt="" data-canonical-src="assets/github-logo.png" width="20" height="20" /> </div><div class="vertical-center"> <a href="https://github.com/nikolasil">GitHub</a> </div></div>
-
-- <div class="container"><div class="vertical-center-icon"><img src="assets/linkedin-logo.png" alt="" data-canonical-src="assets/linkedin-logo.png" width="20" height="20" /> </div><div class="vertical-center"> <a href="https://www.linkedin.com/in/nikolasiliopoulos">LinkedIn</a> </div></div>
+<div class="container"><div class="vertical-center-icon"><img src="assets/github-logo.png" alt="" data-canonical-src="assets/github-logo.png" width="20" height="20" /> </div><div class="vertical-center"> <a href="https://github.com/nikolasil">GitHub</a> </div></div>
+<div class="container"><div class="vertical-center-icon"><img src="assets/linkedin-logo.png" alt="" data-canonical-src="assets/linkedin-logo.png" width="20" height="20" /> </div><div class="vertical-center"> <a href="https://www.linkedin.com/in/nikolasiliopoulos">LinkedIn</a> </div></div>
 
 ---
 
