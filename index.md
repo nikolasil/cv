@@ -5,11 +5,15 @@
 ## General Information
 
 - Address: Nea Makri, 19005, Attica, Greece
+
 - Email: [iliopoulos.info@gmail.com](mailto:iliopoulos.info@gmail.com)
+
 - Phone: +30 694 294 88 51
+
 - Birthday: 18.11.2000
 
 - <div class="container"><div class="vertical-center-icon"><img src="assets/github-logo.png" alt="" data-canonical-src="assets/github-logo.png" width="20" height="20" /> </div><div class="vertical-center"> <a href="https://github.com/nikolasil">GitHub</a> </div></div>
+
 - <div class="container"><div class="vertical-center-icon"><img src="assets/linkedin-logo.png" alt="" data-canonical-src="assets/linkedin-logo.png" width="20" height="20" /> </div><div class="vertical-center"> <a href="https://www.linkedin.com/in/nikolasiliopoulos">LinkedIn</a> </div></div>
 
 ---
@@ -91,8 +95,8 @@ Second Languages:
 - <div class="container"><div class="vertical-center-icon"><img src="assets/latex-logo.png" alt="" data-canonical-src="assets/latex-logo.png" width="50" height="18" /> </div></div>
 - Microsoft Office
   - VBA
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Adobe Photoshop </div></div>
-> - <div class="container"><div class="vertical-center-icon"><img src="assets/html5-logo.png" alt="" data-canonical-src="assets/html5-logo.png" width="20" height="20" /> </div><div class="vertical-center"> HTML & </div><div class="vertical-center-icon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/css-logo.png" alt="" data-canonical-src="assets/css-logo.png" width="20" height="20" /> </div> <div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/photoshop-logo.png" alt="" data-canonical-src="assets/photoshop-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Adobe Photoshop </div></div>
+- <div class="container"><div class="vertical-center-icon"><img src="assets/html5-logo.png" alt="" data-canonical-src="assets/html5-logo.png" width="20" height="20" /> </div><div class="vertical-center"> HTML & </div><div class="vertical-center-icon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/css-logo.png" alt="" data-canonical-src="assets/css-logo.png" width="20" height="20" /> </div> <div class="vertical-center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS </div></div>
 
 > Still Learning | Basic Knowledge:
 > - <div class="container"><div class="vertical-center-icon"><img src="assets/androidstudio-logo.png" alt="" data-canonical-src="assets/androidstudio-logo.png" width="20" height="20" /> </div><div class="vertical-center"> Android Studio </div></div>
