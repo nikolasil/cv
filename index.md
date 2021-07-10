@@ -10,8 +10,6 @@
   position: absolute;
   top: 50%;
   padding: 30px;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
 }
 
 .vertical-center-icon {
