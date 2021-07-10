@@ -1,3 +1,30 @@
+<style>
+.container { 
+  height: 20px;
+  position: relative;
+  /* border: 3px solid green;  */
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+  padding: 30px;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.vertical-center-icon {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+  top: 65%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+</style>
+
 # Computer Scientist Student
 
 ---
@@ -10,6 +37,7 @@
 - Birthday: 18.11.2000
 - <p><div class="container"><div class="vertical-center-icon"><img src="assets/github-logo.png" href="https://github.com/nikolasil" alt="" data-canonical-src="assets/github-logo.png" width="20" height="20" /> </div><div class="vertical-center"> <a href="https://github.com/nikolasil">GitHub</a> </div></div></p>
 - <p><div class="container"><div class="vertical-center-icon"><img src="assets/linkedin-logo.png" href="https://www.linkedin.com/in/nikolasiliopoulos" alt="" data-canonical-src="assets/linkedin-logo.png" width="20" height="20" /> </div><div class="vertical-center"> <a href="https://www.linkedin.com/in/nikolasiliopoulos">LinkedIn</a> </div></div></p>
+
 
 ---
 
@@ -34,31 +62,6 @@ Second Languages:
 - English (B2 Lower Michigan)
 
 ---
-<style>
-.container { 
-  height: 20px;
-  position: relative;
-  /* border: 3px solid green;  */
-}
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  padding: 30px;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-
-.vertical-center-icon {
-  margin: 0;
-  position: absolute;
-  display: inline-block;
-  top: 65%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-</style>
 
 ## Programming Languages
 
