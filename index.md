@@ -35,8 +35,8 @@
 - Email: [iliopoulos.info@gmail.com](mailto:iliopoulos.info@gmail.com)
 - Phone: +30 694 294 88 51
 - Birthday: 18.11.2000
-- <p><div class="container"><div class="vertical-center-icon"><img src="assets/github-logo.png" href="https://github.com/nikolasil" alt="" data-canonical-src="assets/github-logo.png" width="20" height="20" /> </div><div class="vertical-center"> <a href="https://github.com/nikolasil">GitHub</a> </div></div></p>
-- <p><div class="container"><div class="vertical-center-icon"><img src="assets/linkedin-logo.png" href="https://www.linkedin.com/in/nikolasiliopoulos" alt="" data-canonical-src="assets/linkedin-logo.png" width="20" height="20" /> </div><div class="vertical-center"> <a href="https://www.linkedin.com/in/nikolasiliopoulos">LinkedIn</a> </div></div></p>
+- <p><div class="container"><div class="vertical-center-icon"><img src="assets/github-logo.png" href="https://github.com/nikolasil" alt="" data-canonical-src="assets/github-logo.png" width="20" height="20" /> </div> <a href="https://github.com/nikolasil">GitHub</a> </div></p>
+- <p><div class="container"><div class="vertical-center-icon"><img src="assets/linkedin-logo.png" href="https://www.linkedin.com/in/nikolasiliopoulos" alt="" data-canonical-src="assets/linkedin-logo.png" width="20" height="20" /> </div> <a href="https://www.linkedin.com/in/nikolasiliopoulos">LinkedIn</a> </div></p>
 
 
 ---
