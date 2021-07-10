@@ -1,14 +1,14 @@
 <style>
 .container { 
   height: 20px;
-  position: relative;
+  position: absolute;
   /* border: 3px solid green;  */
 }
 
 .vertical-center {
   margin: 0;
   position: absolute;
-  top: 65%;
+  top: 50%;
   padding: 30px;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
