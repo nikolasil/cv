@@ -8,7 +8,8 @@
 .vertical-center {
   margin: 0;
   position: absolute;
-  top: 50%;
+  top: 65%;
+  padding: 30px;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
